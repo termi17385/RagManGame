@@ -1,0 +1,1 @@
+using UnityEngine; public class DestroyBones : MonoBehaviour {private void Start() {Destroy(this.gameObject, 2.5f);}}
